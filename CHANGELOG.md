@@ -1,5 +1,9 @@
 # master
 
+# 0.18.0
+
+* Update findup-sync dependency
+
 # 0.17.0
 
 * use structured logging via heimdalljs

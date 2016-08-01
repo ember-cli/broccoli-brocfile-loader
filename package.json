@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ember-cli/broccoli-brocfile-loader",
   "dependencies": {
-    "findup-sync": "^0.2.1"
+    "findup-sync": "^0.4.2"
   },
   "devDependencies": {
     "jshint": "~2.6.3"
