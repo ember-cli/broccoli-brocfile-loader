@@ -25,12 +25,15 @@
     "findup-sync": "^0.4.2"
   },
   "devDependencies": {
-    "jshint": "~2.6.3"
+    "chai": "^3.5.0",
+    "jshint": "~2.6.3",
+    "mocha": "^3.0.2"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "scripts": {
-    "test": "jshint lib test"
+    "pretest": "jshint lib test",
+    "test": "mocha"
   }
 }
