@@ -2,6 +2,7 @@
 
 # 0.18.0
 
+* Extract `broccoli-brocfile-loader` from `broccoli` repository
 * Update findup-sync dependency
 
 # 0.17.0
