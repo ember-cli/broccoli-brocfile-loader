@@ -25,7 +25,7 @@
     "findup-sync": "^0.4.2"
   },
   "devDependencies": {
-    "jshint": "~2.6.3"
+    "jshint": "~2.9.4"
   },
   "engines": {
     "node": ">= 0.10.0"
